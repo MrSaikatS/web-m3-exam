@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"formulahendry.auto-rename-tag",
+		"usernamehw.errorlens",
+		"ms-vscode.vscode-typescript-next",
+		"pulkitgangwar.nextjs-snippets",
+		"esbenp.prettier-vscode",
+		"bradlc.vscode-tailwindcss"
+	]
+}
